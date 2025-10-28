@@ -3,7 +3,7 @@
 ## Project Overview
 This project performs inferential statistical analyses on NHANES (National Health and Nutrition Examination Survey) 2021-2023 data. The goal is to explore relationships between health metrics and demographic variables using Python in Google Colab.
 
-#3 CoLab Link: https://colab.research.google.com/drive/1s_X7kUEhoql47Mb5tL_v0a3JFsBS1fbh?usp=sharing
+## CoLab Link: https://colab.research.google.com/drive/1s_X7kUEhoql47Mb5tL_v0a3JFsBS1fbh?usp=sharing
 
 ## Dataset
 **Source**: NHANES 2021-2023  
